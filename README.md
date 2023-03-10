@@ -1,0 +1,2 @@
+### PROJECT INFORMATION
+The project is a C++ program that implements an alternate voting method called Instant Runoff Voting for a single elected position in Poor Harbor. It receives data about the candidates and votes cast in the election and processes the votes according to the counting rules provided. The program handles invalid ballots and adjusts the rankings of remaining candidates in each round until one candidate has more than 50% of 1's.
